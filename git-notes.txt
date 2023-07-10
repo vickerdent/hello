@@ -1,0 +1,11 @@
+git commit -am "<message>": adds and commits in one line
+
+git push: saves changes to online repository
+
+git pull: collects changes to local repository
+
+git branch: tells you which branch you're currently on, and which branches exist on the repository
+
+git checkout -b <name_of_branch> Creates a new branch and moves you to it
+
+git checkout <name_of_branch> Moves you to an existing branch
